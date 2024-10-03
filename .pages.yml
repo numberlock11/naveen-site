@@ -2,5 +2,5 @@ media: files
 content:
   - name: posts
     label: Posts
-    path: app/blog/posts
+    path: src_/app/blog/posts
     type: collection
