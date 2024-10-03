@@ -2,5 +2,5 @@ media: files
 content:
   - name: posts
     label: Posts
-    path: naveen-site/app/blog/posts
+    path: app/blog/posts
     type: collection
