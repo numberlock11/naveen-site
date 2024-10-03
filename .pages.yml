@@ -1,1 +1,6 @@
 media: files
+content:
+  - name: posts
+    label: Posts
+    path: app/blog/posts
+    type: collection
